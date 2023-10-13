@@ -1,0 +1,17 @@
+body{
+   background-color: lightblue;
+}
+.banner {
+    background-color:goldenrod ;
+    width: 2200px;
+    height: 200px;
+    margin-bottom:10px;
+
+
+}
+.banner-text{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+
+}
